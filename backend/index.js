@@ -13,7 +13,7 @@ const port = process.env.PORT || 5000;
 
 app.use(
   cors({
-    origin: "http://localhost:5173",
+    origin: "https://real-time-chat-app-1-ef4c.onrender.com",
     credentials: true,
   }),
 );
