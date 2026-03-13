@@ -13,8 +13,8 @@ A **full-stack real-time 1:1 chat application** built with the **MERN stack** an
 
 # 🚀 Live Links
 
-🌐 **Live Application:** https://real-time-chat-app-1-ef4c.onrender.com
-💻 **GitHub Repository:** https://github.com/shankarpattanaik/real-time-chat-app
+- 🌐 **Live Application:** https://real-time-chat-app-1-ef4c.onrender.com
+- 💻 **GitHub Repository:** https://github.com/shankarpattanaik/real-time-chat-app
 
 ---
 
@@ -251,8 +251,9 @@ Contributions are welcome.
 
 **Shankar Pattanaik**
 
-GitHub:   https://github.com/shankarpattanaik
-LinkedIn: https://www.linkedin.com/in/shankarpattanaik
+- GitHub: https://github.com/shankarpattanaik
+- LinkedIn: https://www.linkedin.com/in/shankarpattanaik
+- Email: shankarpattanaik2000@gmail.com
 
 ---
 
